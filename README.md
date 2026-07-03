@@ -129,11 +129,11 @@ Marwansher3@gmail.com
 
 💼 **LinkedIn**
 
-[https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/marwan-sherif-518601252/)
+(https://www.linkedin.com/in/marwan-sherif-518601252/)
 
 🌐 **Portfolio**
 
-[https://YOUR_PORTFOLIO](https://marwan-portfolio-p7ou.vercel.app/home)
+(https://marwan-portfolio-p7ou.vercel.app/home)
 
 ---
 
